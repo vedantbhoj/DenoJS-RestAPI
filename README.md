@@ -1,1 +1,5 @@
 # DenoJS-RestAPI
+
+DenoJS RestAPI
+
+GET, POST, DELETE, PUT
